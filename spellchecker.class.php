@@ -1,6 +1,6 @@
 <?php
 class SpellChecker{
-	/**
+ /**
      * URL of Google service
      * @var string
      */
